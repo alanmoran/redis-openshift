@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM rhscl/redis-32-rhel7:latest
+FROM redis:3.2
 
 USER root
 
